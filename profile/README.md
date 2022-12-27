@@ -25,5 +25,5 @@
 
 ## ✨ 프로젝트 산출물
 
-- [발표자료](https://github.com/MusicSketch/Overview)
+- [발표자료](https://github.com/MusicSketch/Overview/tree/main)
 
